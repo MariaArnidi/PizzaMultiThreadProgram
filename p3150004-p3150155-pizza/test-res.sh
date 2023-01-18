@@ -1,0 +1,1 @@
+gcc -o run p3150004-p3150155-pizza.c -pthread && ./run -ncust 100 -seed 1000
